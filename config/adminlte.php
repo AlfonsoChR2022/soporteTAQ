@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'AdminLTE 3',
+    'title' => 'Soporte TAQ',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -31,7 +31,7 @@ return [
     */
 
     'use_ico_only' => false,
-    'use_full_favicon' => false,
+    'use_full_favicon' => true,
 
     /*
     |--------------------------------------------------------------------------
@@ -256,7 +256,7 @@ return [
     'dashboard_url' => 'home',
     'logout_url' => 'logout',
     'login_url' => 'login',
-    'register_url' => 'register',
+    'register_url' => '',
     'password_reset_url' => 'password/reset',
     'password_email_url' => 'password/email',
     'profile_url' => false,
