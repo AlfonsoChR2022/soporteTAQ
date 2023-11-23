@@ -3,14 +3,6 @@
   <strong>Felicitaciones </strong>
     {{ session('updateClave') }}
 </div>
-
-
-
-    <div class="row justify-content-center">
-        <div class="col-md-12 mt-5 text-center">
-          <img src="{{ asset('img/excelent.gif') }}" style="width:100px;" class="img-fluid" alt="Responsive image">
-        </div>
-    </div>
 @endif
 
 
